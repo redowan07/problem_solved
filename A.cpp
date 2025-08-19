@@ -1,8 +1,14 @@
-//
-//  A.cpp
-//  problems_solved
-//
-//  Created by MacBook Air M1 on 18/8/25.
-//
-
-#include <stdio.h>
+//#include<iostream>
+//#include<string>
+//using namespace std;
+//int main(){
+//    string s;
+//    int a=0,b=0;
+//    cin>>s;
+//    int j=0;
+//    while(j!='\0'){
+//        if(s[j]==('a'-'z')) a++;
+//        else b++;
+//    }
+//    if(a>b) for(int i=0)
+//}
